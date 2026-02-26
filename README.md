@@ -45,17 +45,36 @@
 
 ## 🌟 Featured Projects
 
-### 🤖 Telegram Automation Ecosystem
-*Architecting highly scalable bot infrastructures for varied utility and automation.*
-- **Bots for Channels & Groups**: Management, moderation, and community engagement.
-- **Utility Tools**: File handling, image modification, and link shortener bots.
-- **Scraping & Forwarding**: Comprehensive data scraping and automated content forwarding systems.
-- **Affiliate & Business**: Specialized affiliate automation and business workflow bots.
-- **Global Analysis**: Ranking analysis and statistical bots for global metrics.
-- **Userbot Automation**: Bulk userbot management for performance and scalability.
-- **Tech Stack**: Python (AsyncIO), Pyrogram, Telethon, MongoDB (Motor).
+### 📈 Web3 & Crypto Automated Trading
+*Building the future of finance with decentralized automation.*
+- **Features**: Cross-exchange arbitrage, automated trend following, smart contract interactions, and real-time wallet monitoring.
+- **Tech Stack**: Solidity, Web3.js, Ethers.js, Python (ccxt), Node.js, DeFi APIs.
 
-### 🎵 Hyby Music – Marketplace Platform
+### 💰 Automated Affiliate Marketing
+*Scaling income through smart automation and lead generation.*
+- **Strategy**: Automated funnel creation, lead scoring, and performance tracking across multiple affiliate networks.
+- **Tech**: Python, Selenium, Playwright, REST APIs, CRM Integration.
+
+### 📱 Social Media Automation (FB & Insta)
+*Intelligent engagement and profile management suite.*
+- **Capabilities**: Automated comment replies, DM management, profile growth hacking, and scheduled posting.
+- **Tech**: Meta Graph API, Puppeteer, Python, Node.js.
+
+### 🔗 Linktree for Influencers & Creative Tools
+*A comprehensive suite for digital creators and productivity.*
+- **Linktree Clone**: Custom, high-performance landing pages for influencers.
+- **Productivity Suite**: 
+    - PDF & Docs Editor / Converter.
+    - Multi-format File Converter (PNG, JPG, PDF, etc.).
+    - AI Background Remover & Image Upscaler.
+- **Tech**: Next.js, Cloudinary API, sharp, PDF.js.
+
+### 🧠 Advanced AI & ML Implementations
+*State-of-the-art machine learning models and AI-powered applications.*
+- **Projects**: Custom LLM fine-tuning, Sentiment analysis engines, and Computer Vision based image processing.
+- **Tech Stack**: PyTorch, TensorFlow, HuggingFace, OpenAI API, LangChain.
+
+### 🎵 Music – Marketplace Platform
 *A premium music marketplace for producers and artists.*
 - **Features**: Secure file uploads, Artist dashboards, Integrated payments, Admin moderation.
 - **Tech Stack**: React (Vite), FastAPI, MongoDB, Tailwind.
@@ -65,15 +84,22 @@
 - **Capabilities**: Navamsa (D9) Chart generation, nested Vimshottari Dasa/Antardasa tracking.
 - **Integration**: VedicAstro implementation with FastAPI.
 
-### 🔍 AI Product Reviewer
-*Intelligent platform for automated product analysis.*
-- **Functionality**: Multi-platform scraping (Amazon, Flipkart), AI scoring (1-10), similar product discovery.
-- **Tech**: FastAPI, LLMs, React.
-
 ### 🏢 Society QR Booking System
 *Modern ad-slot and QR management platform.*
 - **Utility**: Dynamic pricing, QR generation, editable destination links, mobile-friendly admin panel.
 - **Tech**: React, FastAPI, MongoDB.
+
+---
+
+## 🤖 Telegram Automation Ecosystem
+*Architecting highly scalable bot infrastructures for varied utility and automation.*
+- **Bots for Channels & Groups**: Management, moderation, and community engagement.
+- **Utility Tools**: File handling, image modification, and link shorteners.
+- **Scraping & Forwarding**: Data scraping and automated content forwarding systems.
+- **Affiliate & Business**: Specialized affiliate automation and business workflow bots.
+- **Global Analysis**: Ranking analysis and statistical bots for global metrics.
+- **Userbot Automation**: Bulk userbot management for performance and scalability.
+- **Tech Stack**: Python (AsyncIO), Pyrogram, Telethon, MongoDB (Motor).
 
 ---
 
