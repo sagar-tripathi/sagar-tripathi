@@ -8,6 +8,12 @@
 
 ### <p align="center"> 🚀 Exploring the intersection of AI, Web Dev & Automation </p>
 
+<p align="center">
+  <a href="https://github.com/sagar-tripathi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-tripathi&theme=tokyonight" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 ## 🛠 Skills & Tech Stack
