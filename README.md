@@ -10,10 +10,15 @@
 
 <p align="center">
   <a href="https://github.com/sagar-tripathi">
-    <img src="https://github-readme-stats.vercel.app/api?username=sagar-tripathi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&icon_color=00D2FF&text_color=ABB2BF" alt="Sagar's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sagar-tripathi&show_icons=true&theme=tokyonight" alt="Sagar's GitHub stats" />
   </a>
   <a href="https://github.com/sagar-tripathi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-tripathi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=ABB2BF" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-tripathi&layout=compact&theme=tokyonight" alt="Top Langs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/sagar-tripathi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-tripathi&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
