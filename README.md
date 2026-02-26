@@ -8,20 +8,6 @@
 
 ### <p align="center"> 🚀 Exploring the intersection of AI, Web Dev & Automation </p>
 
-<p align="center">
-  <a href="https://github.com/sagar-tripathi">
-    <img src="https://github-readme-stats.vercel.app/api?username=sagar-tripathi&show_icons=true&theme=tokyonight" alt="Sagar's GitHub stats" />
-  </a>
-  <a href="https://github.com/sagar-tripathi">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-tripathi&layout=compact&theme=tokyonight" alt="Top Langs" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sagar-tripathi">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-tripathi&theme=tokyonight" alt="GitHub Streak" />
-  </a>
-</p>
-
 ---
 
 ## 🛠 Skills & Tech Stack
@@ -124,5 +110,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00D2FF&height=100&section=footer" width="100%" />
+  <b>Thanks for visiting! Let's build something amazing together.</b>
 </p>
