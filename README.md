@@ -124,5 +124,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00D2FF&height=100&section=footer" width="100%" />
 </p>
